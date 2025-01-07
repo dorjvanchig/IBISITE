@@ -1,0 +1,971 @@
+[
+    {
+        "id" : 0,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : true,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : true,
+        "BurdeldehuunSystem7" : true,
+        "systemName" : "ДАЙМОНД 6.0",
+        "systemDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor.",
+        "systemIcon" : "/whitediamond.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "long",
+                "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper non nisl a vulputate. Nam leo justo, maximus sed ultricies quis, suscipit ac erat. Ut et nibh lobortis nisi sodales blandit et sed nulla. Proin egestas mollis placerat. Duis suscipit ac risus imperdiet gravida. Nunc tincidunt augue ac lectus tempor cursus non non ante. Pellentesque cursus nisi a odio luctus, non commodo quam auctor. Donec nisi diam, porta et dignissim egestas, tempor sed ligula."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Lorem Ipsum"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    },
+                    {
+                        "bulletlist": "Pellentesque quis commodo tortor."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Lorem Ipsum"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    },
+                    {
+                        "bulletlist": "Pellentesque quis commodo tortor."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 1,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : true,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : true,
+        "BurdeldehuunSystem7" : true,
+        "systemName" : "ДАЙМОНД ERP",
+        "systemDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor.",
+        "systemIcon" : "/whitediamond.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "long",
+                "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse semper non nisl a vulputate. Nam leo justo, maximus sed ultricies quis, suscipit ac erat. Ut et nibh lobortis nisi sodales blandit et sed nulla. Proin egestas mollis placerat. Duis suscipit ac risus imperdiet gravida. Nunc tincidunt augue ac lectus tempor cursus non non ante. Pellentesque cursus nisi a odio luctus, non commodo quam auctor. Donec nisi diam, porta et dignissim egestas, tempor sed ligula."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Lorem Ipsum"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    },
+                    {
+                        "bulletlist": "Pellentesque quis commodo tortor."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Lorem Ipsum"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    },
+                    {
+                        "bulletlist": "Pellentesque quis commodo tortor."
+                    },
+                    {
+                        "bulletlist": "     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor. Sed consectetur bibendum ipsum ut consequat. In auctor sed nisl ac porttitor. Quisque a fermentum nisl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : false,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : true,
+        "BurdeldehuunSystem7" : true,
+        "BurdeldehuunSystem8" : true,
+        "BurdeldehuunSystem9" : true,
+        "systemName" : "ДАЙМОНД 5.0",
+        "systemDescription" : "Санхүү, нягтлан бодох бүртгэлийн Даймонд систем",
+        "systemIcon" : "/productIcons/dimond55_cropped.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Интерактив Би Ай ХХК-ийн бүтээгдэхүүний тав дахь хувилбар болох санхүү НББ-ийн Даймонд систем нь мөнгөн хөрөнгө, бараа материал, хангамжийн материал, үндсэн хөрөнгө, авлага өглөг, төсөв, төсөл, зардал болон байгууллагын санхүүтэй холбоотой бүх бүртгэлээ хөтлөх, тайлан мэдээллүүдээ цаг алдалгүй, үнэн зөвөөр авахад зориулагдсан систем юм. Уг систем нь Даймонд ERP цогц системийн бусад бүх системтэйгээ холбогдон ажилладгаараа онцлогтой юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Санхүүгийн Даймонд системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Ямар ч үйл ажиллагаатай байгууллагад тохирч ажиллана."
+                    },
+                    {
+                        "bulletlist": "Өөрийн байгууллагад гардаг онцлог ажил гүйлгээ, бүртгэлийг нэмж хийлгэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "НББОУС, Татварын хуулиудын дагуу бүртгэлээ хөтөлж тайлангуудаа авна."
+                    },
+                    {
+                        "bulletlist": "Тайлангууд дээр Drill Down тайлан буюу тайлангийн бүх үзүүлэлтийг хаанаас ямар үндэслэлээр гарч ирснийг задалж үзэх боломжийг оруулж өгсөн."
+                    },
+                    {
+                        "bulletlist": "Барааны өртгийг компаний хэмжээнд нэг болон агуулах бүрээр тооцно."
+                    },
+                    {
+                        "bulletlist": "Бараа болон үндсэн хөрөнгийн тооллогыг гараар хийхээс гадна баар кодоор хийнэ."
+                    },
+                    {
+                        "bulletlist": "Удирдлагад  санхүүгийн үйл ажиллагааг удирдан хянах боломжийг олгосон Санхүүгийн шинжилгээний системтэй уялдан ажиллаж, оновчтой шийдвэр гаргахад тусалдаг."
+                    },
+                    {
+                        "bulletlist": "Нярав, нягтлан бодогч нар ажил гүйлгээгээ өөрсдийн ажил үүргийн хуваарийн дагуу  тус тусдаа бүртгэж, ажил гүйлгээгээ дор бүр нь хянан алдаагаа олох боломжтой. "
+                    },
+                    {
+                        "bulletlist": "Одоогийн болон өнгөрсөн үеийн мэдээнүүдийг үндэслэж ирээдүйн бизнесийн ашиг орлогоо нэмэгдүүлэх, зардлаа хэмнэх төсөв төлөвлөгөө зохиох боломжтой."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар үүсэх давуу талууд"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Өдөр тутмын санхүүгийн үйл ажиллагааг автоматжуулж цаг хугацаа хэмнэнэ."
+                    },
+                    {
+                        "bulletlist": "Удирдлагын хяналтын системтэй уялдан ажиллаж, оновчтой шийдвэр гаргахад тусалдаг."
+                    },
+                    {
+                        "bulletlist": "Ажил үүргийн хуваарийн дагуу ажлаа хийхэд хялбар, бие биенийхээ хийсэн гүйлгээнд нөлөөлөхгүй өөр хүнээс хамаарч хүлээлт үүсэхгүй."
+                    },
+                    {
+                        "bulletlist": "Шүүлтийн уян хатан нөхцлүүдийг ашиглан хүссэн баримт, гүйлгээгээ хянана."
+                    },
+                    {
+                        "bulletlist": "Өртгийн төв тус бүрээр орлого зарлагыг нарийн бүртгэснээр ашиг алдагдлаа тооцоолно."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : true,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : false,
+        "BurdeldehuunSystem7" : false,
+        "systemName" : "ИМПАКТ",
+        "systemDescription" : "Жижиг аж ахуйн нэгжүүдэд зориулсан хэрэглэхэд хялбар, үнэ хямд, цоо шинэ шийдэл бүхий санхүү НББ-ийн Импакт систем",
+        "systemIcon" : "/productIcons/impact_cropped.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Интерактив Би Ай ХХК нь жижиг аж ахуйн нэгжүүдэд зориулсан хэрэглэхэд хялбар, үнэ хямд, цоо шинэ шийдэл бүхий санхүү НББ-ийн Импакт системийг танилцуулж байна."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Сангийн яамны болон татварын албаны заавар журам, тайлан маягтуудын дагуу бүртгэлээ хөтөлж тайлангуудаа авна."
+                    },
+                    {
+                        "bulletlist": "Бараа материалын FIFO болон Дундаж өртгийн аргуудтай."
+                    },
+                    {
+                        "bulletlist": "Тайлангийн бүх үзүүлэлтийг хаанаас ямар үндэслэлээр гарч ирснийг задалж үзэх боломжтой Drill Down тайланг оруулж өгсөн."
+                    },
+                    {
+                        "bulletlist": "Удирдлагын хяналтын модультай."
+                    },
+                    {
+                        "bulletlist": "Системийн горимд 1-5 хэрэглэгч нэгэн зэрэг ажиллах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Балансын эхний үлдэгдэл, бараа материалын код, баар код, үлдэгдлийн мэдээлэл, үндсэн хөрөнгийн кодын болон эхний үлдэгдлийн мэдээллийг Excel програмаас татан оруулах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Microsoft-ийн програмуудтай холбогдон ажиллана."
+                    },
+                    {
+                        "bulletlist": "Програмыг Монгол хэлээс гадна дурын 2 хэл дээр ашиглах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Мөнгөний одоогийн болон ирээдүйн үнэ цэнийг тооцно."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар үүсэх давуу талууд"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Санхүүгийн тайлан гаргах, бүртгэл хөтлөг гар ажиллагаанууд бүгд хөнгөвчлөгдөж цаг хугацаа хэмнэнэ."
+                    },
+                    {
+                        "bulletlist": "Өдөр тутмын санхүүгийн үйл ажиллагаа цэгцэрч, таны хяналтад бүрэн орно."
+                    },
+                    {
+                        "bulletlist": "Удирдлагын хяналт хэсгээр байгууллагынхаа мэдээллийг харснаар мөнгөн урсгалаа хянаж, төлөвлөнө."
+                    },
+                    {
+                        "bulletlist": "Авлага, өглөгийн насжилтыг харж хянаснаар цугларалтыг нь хурдасган шийдвэр гаргана."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : false,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : true,
+        "BurdeldehuunSystem7" : false,
+        "BurdeldehuunSystem8" : true,
+        "systemName" : "ЭМЕРАЛД",
+        "systemDescription" : "Төсөвт байгууллагын НББ-ийн Эмералд систем",
+        "systemIcon" : "/productIcons/emerald_cropped.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Төсөвт байгууллагын НББ-ийн Эмералд систем нь төсөвт байгууллагын санхүү бүртгэлийн бүх төрлийн гүйлгээ хийж тайлан баланс гаргах бөгөөд төсөвт байгууллагын онцлог болох жилийн санхүүжилтийн төлөвлөгөө, түүний батлагдсан төсвийг улирал, сард хуваарилан, төсвийн хүрээнд мөнгөн урсгалыг бүрэн хянаж, гүйлгээ хийх, хэмнэлт хэтрэлтийг хянадаг систем юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Ямар ч үйл ажиллагаатай төсвийн байгууллагад тохирч ажиллана."
+                    },
+                    {
+                        "bulletlist": "Өөрийн байгууллагад гардаг онцлог ажил гүйлгээ, бүртгэлийг нэмж хийлгэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Мөнгөн урсгалаа хянаж, эдийн засгийн ангиллаар төсөв гаргах гүйцэтгэлийг хянах боломжтой."
+                    },
+                    {
+                        "bulletlist": "НББОУС, Сангийн яамнаас баталсан болон бусад заавар журмуудын дагуу бүртгэлээ хөтөлж бүх төрлийн тайлангууд батлагдсан маягтын дагуу гаргана."
+                    },
+                    {
+                        "bulletlist": "Дахин үнэлгээний нэмэгдлийг хэрэгжсэн үед нь дансанд бичнэ."
+                    },
+                    {
+                        "bulletlist": "Тайлангууд дээр Drill Down тайлан буюу тайлангийн бүх үзүүлэлтийг хаанаас ямар үндэслэлээр гарч ирснийг задалж үзэх боломжийг оруулж өгсөн."
+                    },
+                    {
+                        "bulletlist": "Бараа болон үндсэн хөрөнгийн тооллогыг цаг хугацаа хэмнэж хялбар аргаар сканнер ашиглаж хийх боломжтой. "
+                    },
+                    {
+                        "bulletlist": "Бүх модулиуд дээр нярав, нягтлангийн ажил үүргийг тусад нь хуваарилсан. Пластик нэгтгэлийн програмтай холбогдон ажиллана."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар үүсэх давуу талууд"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Өдөр тутмын санхүүгийн үйл ажиллагааг автоматжуулж цаг хугацаа хэмнэнэ."
+                    },
+                    {
+                        "bulletlist": "Бүртгэлийн үйл ажиллагаагаа хянаж төлөвлөлт хийх, шийдвэр гаргахад тусална."
+                    },
+                    {
+                        "bulletlist": "Ажил үүргийн хуваарийн дагуу ажлаа хийхэд хялбар, бие биенийхээ хийсэн гүйлгээнд нөлөөлөхгүй өөр хүнээс хамаарч хүлээлт үүсэхгүй."
+                    },
+                    {
+                        "bulletlist": "Шүүлтийн уян хатан нөхцлүүдийг ашиглан хүссэн баримт, гүйлгээгээ хянана."
+                    },
+                    {
+                        "bulletlist": "Өртгийн төв тус бүрээр орлого зарлагыг нарийн бүртгэснээр ашиг алдагдлаа тооцоолно."
+                    },
+                    {
+                        "bulletlist": "Тайлангийн шүүлт бүлгийг хүссэнээрээ өөрчлөн янз бүрээр харах боломжуудтай."
+                    },
+                    {
+                        "bulletlist": "Салбар нэгж тус бүрээр санхүүгийн тайлан гаргана."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "BurdeldehuunSystem0" : true,
+        "BurdeldehuunSystem1" : true,
+        "BurdeldehuunSystem2" : true,
+        "BurdeldehuunSystem3" : true,
+        "BurdeldehuunSystem4" : false,
+        "BurdeldehuunSystem5" : true,
+        "BurdeldehuunSystem6" : true,
+        "BurdeldehuunSystem7" : false,
+        "BurdeldehuunSystem8" : true,
+        "BurdeldehuunSystem10" : true,
+        "BurdeldehuunSystem11" : true,
+        "BurdeldehuunSystem12" : true,
+        "BurdeldehuunSystem13" : true,
+        "BurdeldehuunSystem14" : true,
+        "BurdeldehuunSystem15" : true,
+        "BurdeldehuunSystem16" : true,
+        "BurdeldehuunSystem17" : true,
+        "systemName" : "СПИНЕЛ",
+        "systemDescription" : "Банк, ХЗХ, ББСБ-ын санхүү НББ-ийн Спинел систем",
+        "systemIcon" : "/productIcons/spinel_cropped.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Spinel ERP систем нь санхүүгийн үйлчилгээ үзүүлдэг банк, ББСБ, хадгаламж, зээлийн хоршооны үйл ажиллагаанд зориулагдсан хадгаламж, зээлийн бүтээгдэхүүнүүд, хүү, хугацаа, зэрэг бүх төрлийн бүртгэлийг хөтөлж энэ салбарын онцлогт тохирсон бүх төрлийн тайлан мэдээнүүдийг гаргадаг програм юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Өдөр тутмын санхүүгийн үйл ажиллагаагаа хянана"
+                    },
+                    {
+                        "bulletlist": "Салбарын онцлогт тохирсон зээл, хадгаламж тэдгээртэй холбоотой хүү, валют арилжаа зэрэг мэдээллүүдийг бүртгэнэ. "
+                    },
+                    {
+                        "bulletlist": "Сангийн яам, Санхүүгийн зохицуулах хорооноос баталсан болон бусад заавар журмуудын дагуу бүртгэлээ хөтөлж тайлангууд авна."
+                    },
+                    {
+                        "bulletlist": "Тайлангийн үзүүлэлтийг хаанаас ямар үндэслэлээр гарч ирснийг задалж үзэх боломжтой Drill Down тайланг оруулж өгсөн."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар үүсэх давуу талууд"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Хадгаламж болон зээлтэй холбоотой хүүний тооцооллийг үнэ зөв тооцоолох. Excel програм дээр тооцоолсноор хоногийн зөрүү үүсэх олон мөр мэдээллээс шалтгаалсан томъёо зөрөх, хоног буруу тооцоолох эрсдэлээс сэргийлнэ."
+                    },
+                    {
+                        "bulletlist": "Зээл төлөлтийг графикийн дүнтэй харьцуулсан мэдээлэл гаргана."
+                    },
+                    {
+                        "bulletlist": "Графикийн дагуу төлөлт хийгдээгүй тохиолдолд алдангийн дүн автоматаар тооцоологдсоноор гараар хийх ажиллагаа үгүй болно."
+                    },
+                    {
+                        "bulletlist": "Зээлийн графикаас хамааран төлөлт хийгдэх огноо нь хэтэрсэн тохиолдолд анхааруулгын цонх дээр мэдээллийг харуулснаар хугацаа хэтэрсэн зээлдэгчийн мэдээллийг цаг алдалгүй харна."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "timemanage1" : true,
+        "timemanage2" : true,
+        "timemanage3" : true,
+        "timemanage4" : true,
+        "timemanage5" : true,
+        "timemanage6" : true,
+        "timemanage7" : true,
+        "timemanage8" : true,
+        "timemanage9" : true,
+        "timemanage10" : true,
+        "timemanage11" : true,
+        "timemanage12" : true,
+        "timemanage13" : true,
+        "systemName" : "Цаг бүртгэлийн систем",
+        "systemDescription" : "",
+        "systemIcon" : "/productIcons/timemanager_temp.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Энэхүү цаг бүртгэлийн систем нь аж ахуйн нэгж, бизнесийн байгууллагын цагийн бүртгэлийг хялбаршуулах, хүссэн үедээ хяналт тавих боломжоор хангах, хэрэгцээт тайлан судалгааг богино хугацаанд гаргаж авах, цагийн нягтралыг сайжруулах, хөдөлмөрийн бүтээмжийг дээшлүүлэх зорилготой юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Байгууллага аж ахуй нэгж компанийн үйл ажиллагааны онцлог, цагийн хуваарьт тохируулан системийг ашиглах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Ажилтнуудын цагийн хуваарийг байгууллага, хэлтэс тасаг, ажилтан нэг бүрээр тохируулахаас гадна гариг, сараар оруулах боломжтой. Өөрөөр хэлбэл компанийн зарим ажилтнуудын цагийн хуваарь үйл ажиллагааны онцлогоос хамааран ялгаатай байдагтай уялдуулан цаг төлөвлөлтийг уян хатнаар зохион байгуулна."
+                    },
+                    {
+                        "bulletlist": "Бүх төрлийн цаг бүртгэлийн автомат төхөөрөмжүүдтэй сүлжээгээр болон портоор холбогдож мэдээллийг чөлөөтэй солилцдог."
+                    },
+                    {
+                        "bulletlist": "Олон салбар, охин компаниудтай байгууллага, аж ахуйн нэгжийн хувьд салбар дамжиж ажилладаг менежрүүдийн тухайн цаг мөчид хаана ажиллаж байгааг хянах бололцоотой."
+                    },
+                    {
+                        "bulletlist": "Хүний нөөцийн систем, цалингийн системтэй хамтран ажиллах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Энэхүү систем дээр ажиллах хэрэглэгчдийн эрхийг ялгаатай тодорхойлсноор ажил үүргийг нарийн хууваарилах, шатлан хянах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Цагийн балансын бүх төрлийн тайланг эрх бүхий хэрэглэгч өөрөө нэмж тайланг хүссэн загвараараа хэвлэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Удирдлага тухайн цаг мөчид хэн ажилдаа ирсэн хэдэн минут хоцорсон, хэлтсүүдийн ирц ямар байгааг хянах боломжтой."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар үүсэх давуу талууд"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Удирдлагыг нийт ажилтнуудын ирцийн талаарх дэлгэрэнгүй мэдээллээр хангана."
+                    },
+                    {
+                        "bulletlist": "Хөдөлмөрийн хөлс бодох, шагнал урамшуулал, үнэлгээний асуудлаар шийдвэр гаргахад бодитой үндэслэл болно."
+                    },
+                    {
+                        "bulletlist": "Байгууллагын цаг ашиглалтыг сайжруулахад тодорхой ахиц дэвшил авчирна."
+                    },
+                    {
+                        "bulletlist": "Ажилтнууд өөрсдийн цагийн бүртгэлтэй танилцсанаар ажилласан цагаа хянах, хоцролт, таслалтыг багасгахад бодитой хөшүүрэг болно."
+                    },
+                    {
+                        "bulletlist": "Цаг бүртгэлийн системийг автомат төхөөрөмжтэй хослуулан нэвтрүүлснээр байгууллагын цаг бүртгэл хэвийн явагдах бас нэг нөхцөл болно."
+                    },
+                    {
+                        "bulletlist": "Нягтлан бодогчид ажилчдын цалин хөлсийг хялбархан бодох бодитой мэдээлэл болж өгнө."
+                    },
+                    {
+                        "bulletlist": "Хүний нөөцийн менежерт ажилтнуудын өвчтэй, чөлөөтэй, тасалсан, томилолттой гэх мэтчилэн үзүүлэлтээр тайлан судалгаа авах, цаг хугацаа, зардал мөнгө хэмнэхээс гадна ирцийн шинжилгээ хийх боломж олгоно."
+                    },
+                    {
+                        "bulletlist": "Ажлын цаг ашиглалтыг сайжруулснаар хөдөлмөрийн бүтээмж өсөх цаашилбал тухайн байгууллагын орлого нэмэгдэх хүчин зүйл болно."
+                    },
+                    {
+                        "bulletlist": "Хөдөлмөрийн хөлсний үнэлэмжийг ажлын цагтай холбож өгснөөр цалингийн зардлын алдагдлыг бууруулах бодит боломжийг бий болгоно. Өөрөөр хэлбэл ажлын байрандаа байхгүй хүнд цалин олгох шаардлагагүй болсноор үргүй зардлыг бууруулна."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 7,
+        "market1" : true,
+        "market2" : true,
+        "market3" : true,
+        "market4" : true,
+        "market5" : true,
+        "market6" : true,
+        "market7" : true,
+        "market8" : true,
+        "market9" : true,
+        "market10" : true,
+        "market11" : true,
+        "market12" : true,
+        "systemName" : "Дэлгүүрийн удирдлагын систем",
+        "systemDescription" : "",
+        "systemIcon" : "/productIcons/store.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Энэхүү систем нь дэлгүүр, супермаркет, бусад бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл, үнийн мэдээлэл, борлуулалтын үйл ажиллагааны бүртгэл тооцоог хөтлөн, холбогдох тайлан мэдээг боловсруулж, үйлчлүүлэгчдэд түргэн шуурхай үйлчлэх боломжийг танд олгох дэлгүүрийн цогц систем юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Төрөл бүрийн хямдрал урамшууллын бодлого явуулах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Борлуулалттай холбоотой олон төрлийн график шинжилгээ хийнэ."
+                    },
+                    {
+                        "bulletlist": "Барааны үнийн түүх хөтлөгдөнө."
+                    },
+                    {
+                        "bulletlist": "Олон валютаар тооцоо хийх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Салбар дэлгүүрийг валютаар ялган тохируулах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Бэлэн болон бэлэн бус борлуулалт хийнэ."
+                    },
+                    {
+                        "bulletlist": "Талоны загварыг хүссэнээрээ өөрчлөх боломжтой"
+                    },
+                    {
+                        "bulletlist": "Жижиг дэлгүүрүүдээс эхлэн дунд, том, сүлжээ дэлгүүрүүдэд бүгдэд нь тохиромжтой."
+                    },
+                    {
+                        "bulletlist": "Электрон жин ашиглах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Сериал болон цувралын дугаараар ялган борлуулалт хийнэ."
+                    },
+                    {
+                        "bulletlist": "Барааны баталгаат хугацаа хэвлэнэ."
+                    },
+                    {
+                        "bulletlist": "НӨАТ тооцох эсэхийг тохируулах боломжтой."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар гарах үр дүн"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Шуурхай үйлчилж, хэрэглэгчдийг татна."
+                    },
+                    {
+                        "bulletlist": "Шуурхай үйлчилж, хэрэглэгчдийг татна."
+                    },
+                    {
+                        "bulletlist": "Удирдлагын хяналт хэсгийг ашигласнаар борлуулалт, төлбөрийн мэдээнд бүрэн хяналт тавьж • оновчтой шийдвэр гаргахад дөхөмтэй болно."
+                    },
+                    {
+                        "bulletlist": "Сүлжээ дэлгүүрүүдийн хувьд нөөцийг оновчтой хуваарилна."
+                    },
+                    {
+                        "bulletlist": "Нийлүүлэгчтэй тооцоо хурдан нийлж бүртгэх, тооцоход гардаг хүндрэлүүд багасна."
+                    },
+                    {
+                        "bulletlist": "Үргүй зардлыг бууруулна."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 8,
+        "restaurant1" : true,
+        "restaurant2" : true,
+        "restaurant3" : true,
+        "restaurant4" : true,
+        "restaurant5" : true,
+        "restaurant6" : true,
+        "systemName" : "Рестораны удирдлага төлөвлөлтийн систем",
+        "systemDescription" : "",
+        "systemIcon" : "/productIcons/restaurant.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Уг систем рестораны үйлчилгээ эрхэлдэг байгууллагуудын үйлчлүүлэгчийн захиалгаас эхлээд хоолны орц норм, зарагдах үнэ, рестораны заалны зохион байгуулалт, хоол гаргалттай холбоотой дэлгэрэнгүй мэдээллийг бүртгэж, зөөгч, хоол, ширээтэй холбоотой төрөл бүрийн шинжилгээ, тайлан мэдээллийг боловсруулан гаргадаг систем юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Өртгийн нарийн тооцоолол хийнэ."
+                    },
+                    {
+                        "bulletlist": "Түүхий эд материалын зарцуулалтын бодит тооцоог гаргана."
+                    },
+                    {
+                        "bulletlist": "Рестораны заалны зохион байгуулалтыг хүссэнээрээ зурна."
+                    },
+                    {
+                        "bulletlist": "Зөөгчийн бичсэн захиалга тогоочийн компьютер дээр дэлгэрэнгүй хэлбэрээр цаг хугацаа алдалгүйгээр мэдээлэгдэнэ."
+                    },
+                    {
+                        "bulletlist": "Салбар тус бүрээр ялгаатай үнээр борлуулах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Хямдралын бодлого, загвараа хүссэнээрээ хийнэ."
+                    },
+                    {
+                        "bulletlist": "Нэг ширээн дээрх тооцоог тус бүрд нь салгаж хийнэ."
+                    },
+                    {
+                        "bulletlist": "Үйлчлүүлэгчийн хүссэнээр хоолны орц, хэмжээ, бэлтгэх аргыг өөрчилнө."
+                    },
+                    {
+                        "bulletlist": "Хөнгөлөлтийн картын системтэй холбогдон картын хөнгөлөлт үзүүлэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Төлбөрийг бэлэн болон бэлэн бусаар хийх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Түүхий эдийн зарлага, дуусаагүй үйлдвэрлэлийн зардал, бэлэн бүтээгдэхүүний орлогын гүйлгээ автоматаар хийгдэнэ. Өөрөөр хэлбэл Санхүүгийн системтэй уялдан ажиллана."
+                    },
+                    {
+                        "bulletlist": "Удирдлагын хяналт цонхоор рестораны хамгийн ачаалалтай цаг, ширээ, зөөгч, хоолны шинжилгээнүүдийг хийнэ."
+                    },
+                    {
+                        "bulletlist": "Зөөгч бүр өөрийн гэсэн кодтой байх бөгөөд зөөгч бүрийн захиалга ялгаран харагдана."
+                    },
+                    {
+                        "bulletlist": "Рестораны борлуулалтын тайланг олон хувилбараар шүүж гаргах боломжтой."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Програм ашигласнаар гарах үр дүн"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Хурдан шуурхай үйлчилгээ бий болно."
+                    },
+                    {
+                        "bulletlist": "Борлуулалтын мэдээллийг цаг тухайд нь хянана."
+                    },
+                    {
+                        "bulletlist": "Тогооч зөөгч касс хоорондын захиалгын үйл явцыг хурдасгаснаар хурдан шуурхай үйлчилгээ бий болж хэрэглэгчдийн таашаалыг хүртэн цаашлаад байгууллагын орлого өсөх бүрэн боломжтой юм."
+                    },
+                    {
+                        "bulletlist": "Үйлчлүүлэгчийн хэрэглээнд бүрэн нийцсэн уян хатан үйлчилгээний хэлбэрүүд бий болно."
+                    },
+                    {
+                        "bulletlist": "Тайланг хэрэглэгчийн шаардлагаар ямар ч байдлаар авч болох ба хэрэглэгч өөрийн хүссэнээр тайлангийн маягтыг бэлдэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Рестораны замбараагүй бүртгэлүүд үгүй болж , цаг хугацаа бүрээр автоматжуулагдана."
+                    },
+                    {
+                        "bulletlist": "Санхүүгийн системтэй уялдаж ажилласнаар санхүүгийн систем дээр хийгдэх дуусаагүй үйлдвэрлэлийн зардлын бүртгэлийг автоматаар хөтөлсөнөөр цаг хугацаа хэмнэж, ажил хөнгөвчлөгдөнө."
+                    },
+                    {
+                        "bulletlist": "Төсөвт өртөг, худалдсан үнийн зөрүүгээр ашгийн шинжилгээ хийх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Хоол боловсруулж буй хугацаа, зөөгчийн гүйцэтгэлийн хяналт, ширээ ашиглалтын хяналт зэрэг ойлгомжтой график, хүснэгтэн мэдээлэл бүхий Удирдлагын хяналтыг ашигласнаар бизнесийн ашигтай шийдэл гаргана."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 9,
+        "hotel1" : true,
+        "hotel2" : true,
+        "systemName" : "Зочид буудлын удирдлагын систем",
+        "systemDescription" : "",
+        "systemIcon" : "/productIcons/miracle.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Miracle зочид буудлын систем нь бага зардлаар дээд зэргийн үйлчилгээ үзүүлэн ашиг орлогоо нэмэгдүүлж улмаар үр ашигтай байдлаа дээшлүүлэх, олон үйлчлүүлэгчтэй болохын сацуу тэдгээрийг тогтоон барих, цаг хугацааг хэмнэх зэрэг олон асуудлыг шийдвэрлэж чадах хамгийн сүүлийн үеийн програмчлалын технологи ашиглан өндөр түвшинд боловсруулсан үндэсний програм хангамж юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Олон өрөөнд нэг дор олон зочинг зэрэг бүртгэж оруулах."
+                    },
+                    {
+                        "bulletlist": "Олон өрөөний захиалгыг зэрэг авах."
+                    },
+                    {
+                        "bulletlist": "Анхааруулгын жагсаалт харуулах."
+                    },
+                    {
+                        "bulletlist": "Сануулах үйлчилгээг харуулах."
+                    },
+                    {
+                        "bulletlist": "Санал болгох үйлчилгээг харуулах."
+                    },
+                    {
+                        "bulletlist": "Тухайн зочны өмнө ирж байсан түүхийг харуулах."
+                    },
+                    {
+                        "bulletlist": "Төрөл бүрийн шинжилгээг харуулах."
+                    },
+                    {
+                        "bulletlist": "Төрөл бүрийн тайлан харуулах."
+                    },
+                    {
+                        "bulletlist": "Зочинтой холбоотой үйлдлүүдийг нэг дороос хийх."
+                    },
+                    {
+                        "bulletlist": "Мэдээллийг автоматаар шинэчлэх."
+                    },
+                    {
+                        "bulletlist": "Тухайн хугацаанд гарах болон хугацаа хэтэрсэн зочдыг ялгаж харуулах."
+                    },
+                    {
+                        "bulletlist": "Харилцагч байгууллагад үзүүлэх хөнгөлөлтийг хүссэнээрээ зохиох боломжтой."
+                    },
+                    {
+                        "bulletlist": "Өрөөний болон утасны үнийн тарифыг хүссэнээрээ зохиож болно."
+                    },
+                    {
+                        "bulletlist": "Төлбөрийг олон хэлбэрээр хийх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Ресторан болон санхүүгийн програмтай маш сайн холбогдож ажиллана."
+                    }
+                ]
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийг ашигласнаар гарах үр дүн"
+            },
+            {
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist": "Зочинд хурдан шуурхай үйлчилгээг үзүүлнэ."
+                    },
+                    {
+                        "bulletlist": "Зочид буудлын програм нь санхүүгийн програмтай нягт уялдаа холбоотой ажиллах бөгөөд удирдлагууд буудлын бүхий л гүйлгээг цаг тухай бүрт  нь хянах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Зочноос захиалга хүлээн авч бүртгэхээс эхлээд буудлаас гарах хүртэлх бүх хугацаанд гарсан бүхий л төлбөр тооцоог хөтлөн баримтжуулж, шаардлагатай тайлан мэдээг түргэн хугацаанд гаргана."
+                    },
+                    {
+                        "bulletlist": "Буудлын өрөөнүүдийг маш нарийн төлөвлөх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Зочдын мэдээллийн санг үүсгэснээр тухайн зочны ая тухтай байдлыг хангах, тохирсон үйлчилгээг хурдан шуурхай үзүүлэхэд тусална."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "discount1" : true,
+        "discount2" : true,
+        "discount3" : true,
+        "discount4" : true,
+        "discount5" : true,
+        "discount6" : true,
+        "discount7" : true,
+        "systemName" : "Хөнгөлөлтийн картны систем",
+        "systemDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis commodo tortor.",
+        "systemIcon" : "/whitediamond.png",
+        "herosrc" : "/productheroimg/diamondERP.png",
+        "tableinfo" : {
+            "heading" : "Diamond ERP цогц програм хангамжийн үнийн санал",
+            "additionalinfo" : "Лиценз ашиглалтын төлбөр 15% байна. Системд нэмэлтээр авах бааз бүр 1,100,000₮ байна. Жич: Одоор тэмдэглэсэн програмын үнийн санал дээрх төлбөр нь програмын суурь үнэ бөгөөд байгууллагын онцлогт таарсан хөгжүүлэлт хийгдэхдээ нэмэлт төлбөртэй байна."
+        },
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Системийн танилцуулга"
+            },
+            {
+                "type" : "normal",
+                "content" : "Хөнгөлөлтийн картын систем нь худалдааны, ресторан, зочид буудлын үйлчилгээ эрхэлдэг байгууллагуудад зориулагдсан систем бөгөөд хөнгөлөлтийн картын хямдрал урамшууллын олон хувилбарыг ашиглан харилцагч үйлчлүүлэгчдийнхээ худалданавалтын шийдвэр гаргалтыг идэвхжүүлж, илүү олон бүтээгдэхүүн үйлчилгээг хүргэхэд туслах систем юм."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Системийн боломжууд"
+            },
+            {
+                "type" : "bullet",
+                "content" : [
+                    {
+                        "bulletlist": "Хямдрал, бонус, бэлэг, VIP, урамшууллын картын төрлүүд ашиглах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Худалдан авалтын дүнгээс хамааран картын хувь автоматаар өөрчлөгдөнө."
+                    },
+                    {
+                        "bulletlist": "Карт эзэмшигчийн худалдан авалт болон бонусын түүх хөтлөгдөнө."
+                    },
+                    {
+                        "bulletlist": "Карт эзэмшигчдийн талаар тайлан, мэдээллүүд авах боломжтой."
+                    },
+                    {
+                        "bulletlist": "Карт эзэмшигчийн түүх мэдээлэл дээр үндэслэн менежмент хийх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Картын үйлчилгээг нэвтрүүлэн худалдан авагчдын тоог нэмэгдүүлэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Картын үйлчилгээг олон төрлийн салбар дээр хэрэглэн бизнесээ өргөжүүлэх боломжтой."
+                    },
+                    {
+                        "bulletlist": "Байнгын хэрэглэгчиддээ зориулж хөнгөлөлт урамшуулал зарлан борлуулалтаа өсгөх боломжтой."
+                    }
+                ]
+            }       
+        ]
+    }
+    
+]

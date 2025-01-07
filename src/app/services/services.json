@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 0,
+        "title" : "Зөвлөх үйлчилгээ",
+        "subtitle" : "ERP системийн үр өгөөж",
+        "heroimg" : "/companyheroimg/product.jpg",
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Бидний Түүх"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Ажиллах арга барил"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            }
+        ]
+    },
+    {
+        "id" : 1,
+        "title" : "Борлуулалт",
+        "subtitle" : "Борлуулалтын үеийн үйлчилгээ",
+        "heroimg" : "/companyheroimg/product.jpg",
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Бидний Түүх"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Ажиллах арга барил"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "title" : "Нэвтрүүлэлт",
+        "subtitle" : "Худалдаж авсны дараах үйлчилгээ",
+        "heroimg" : "/companyheroimg/product.jpg",
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Бидний Түүх"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Ажиллах арга барил"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "title" : "IT үйлчилгээ",
+        "subtitle" : "Техник, тоног төхөөрөмжийн үйлчилгээ",
+        "heroimg" : "/companyheroimg/product.jpg",
+        "text" : [
+            {
+                "type" : "heading1",
+                "content" : "Бидний Түүх"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            },
+            {
+                "type" : "heading2",
+                "content" : "Ажиллах арга барил"
+            },
+            {
+                "type" : "normal",
+                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+            }
+        ]
+    }
+]

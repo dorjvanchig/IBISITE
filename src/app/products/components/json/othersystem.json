@@ -1,0 +1,37 @@
+[
+    {
+        "srcimg" : "/productIcons/timemanager_temp.png",
+        "name" : "Цаг бүртгэлийн систем",
+        "href" : "/OtherSystems/timemanager",
+        "key" : "diamond0",
+        "desc" : "Цаг бүртгэлийн систем нь аж ахуйн нэгж, бизнесийн байгууллагын цагийн бүртгэлийг хялбаршуулах, хүссэн үедээ хяналт тавих боломжоор хангах, хэрэгцээт тайлан судалгааг богино хугацаанд гаргаж авах, цагийн нягтралыг сайжруулах, хөдөлмөрийн.."
+    },
+    {
+        "srcimg" : "/productIcons/store.png",
+        "name" : "Дэлгүүрийн удирдлагын систем",
+        "href" : "/OtherSystems/market",
+        "key" : "diamond1",
+        "desc" : "Дэлгүүр, супермаркет, бусад бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл, үнийн мэдээлэл, борлуулалтын үйл ажиллагааны бүртгэл тооцоог хөтлөн, холбогдох тайлан мэдээг боловсруулж.."
+    },
+    {
+        "srcimg" : "/productIcons/restaurant.png",
+        "name" : "Рестораны удирдлага төлөвлөлтийн систем",
+        "href" : "/OtherSystems/restaurant",
+        "key" : "diamond2",
+        "desc" : "Рестораны үйлчилгээ эрхэлдэг байгууллагуудын үйлчлүүлэгчийн захиалгаас эхлээд хоолны орц норм, зарагдах үнэ, рестораны заалны зохион байгуулалт, хоол гаргалттай холбоотой дэлгэрэнгүй мэдээллийг бүртгэж, зөөгч, хоол, ширээтэй.."
+    },
+    {
+        "srcimg" : "/productIcons/miracle.png",
+        "name" : "Зочид буудлын удирдлагын систем",
+        "href" : "/OtherSystems/hotel",
+        "key" : "diamond3",
+        "desc" : "Зочид буудлын систем нь бага зардлаар дээд зэргийн үйлчилгээ үзүүлэн ашиг орлогоо нэмэгдүүлж улмаар үр ашигтай байдлаа дээшлүүлэх, олон үйлчлүүлэгчтэй болохын сацуу тэдгээрийг тогтоон барих, цаг хугацааг хэмнэх зэрэг.."
+    },
+    {
+        "srcimg" : "/productIcons/discount_temp.png",
+        "name" : "Хөнгөлөлтийн картны систем",
+        "href" : "/OtherSystems/discount",
+        "key" : "diamond4",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    } 
+]

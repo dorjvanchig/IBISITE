@@ -1,0 +1,51 @@
+[
+    {
+        "srcimg" : "/comingsoon.png",
+        "name" : "Оч 7.7",
+        "href" : "/Och7",
+        "key" : "diamond0",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/comingsoon.png",
+        "name" : "Даймонд 6.0",
+        "href" : "/Diamond6",
+        "key" : "diamond1",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/productIcons/dimond55_cropped.png",
+        "name" : "Даймонд 5.0",
+        "href" : "/Diamond5",
+        "key" : "diamond2",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/productIcons/impact_cropped.png",
+        "name" : "Импакт",
+        "href" : "/Impact",
+        "key" : "diamond3",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/productIcons/emerald_cropped.png",
+        "name" : "Эмералд",
+        "href" : "/Emerald",
+        "key" : "diamond4",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/productIcons/spinel_cropped.png",
+        "name" : "Спинел",
+        "href" : "/Spinel",
+        "key" : "diamond5",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    },
+    {
+        "srcimg" : "/more.png",
+        "name" : "Бусад",
+        "href" : "#otherSystem",
+        "key" : "diamond6",
+        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
+    }
+]

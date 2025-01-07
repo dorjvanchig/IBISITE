@@ -1,0 +1,414 @@
+[
+    {
+        "name" : "Ерөнхий журнал",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem0"
+    },
+    {
+        "name" : "Мөнгөн хөрөнгө",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem1"
+    },
+    {
+        "name" : "Өглөг, авлага",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem2"
+    },
+    {
+        "name" : "Үндсэн хөрөнгө",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem3"
+    },
+    {
+        "name" : "Удирдлагын хяналтын модуль",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem4"
+    },
+    {
+        "name" : "Бараа материал",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem5"
+    },
+    {
+        "name" : "Хангамжийн материал",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem6"
+    },
+    {
+        "name" : "Зардал",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem7"
+    },
+    {
+        "name" : "Төсөв",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem8"
+    },
+    {
+        "name" : "Төсөл",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem9"
+    },
+    
+    {
+        "name" : "Зээл",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem10"
+    },
+    {
+        "name" : "Зээлийн мэдээллийн сан",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem11"
+    },
+    {
+        "name" : "Харилцах",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem12"
+    },
+    {
+        "name" : "Хадгаламж   / Итгэлцэл /",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem13"
+    },
+    {
+        "name" : "Хувь нийлүүлэгч",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem14"
+    },
+    {
+        "name" : "Авизо",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem15"
+    },
+    {
+        "name" : "Тэнцэлийн гадуурх",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem16"
+    },
+    {
+        "name" : "Тайлангууд",
+        "desc" : "Бөөний болон жижиглэн худалдааны байгууллагын барааны дэлгэрэнгүй бүртгэл хөтөлж, борлуулалтын тооцоог хөтөлж, хянах...",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "BurdeldehuunSystem17"
+    },
+
+    {
+        "name" : "Хэлтэс тасгийн бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage1"
+    },
+    {
+        "name" : "Ажилтны бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage2"
+    },
+    {
+        "name" : "Ажлын цагийн хуваарь",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage3"
+    },
+    {
+        "name" : "Ажилтны шилжилт хөдөлгөөн",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage4"
+    },
+    {
+        "name" : "Цаг төлөвлөлтийн хуваарь",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage5"
+    },
+    {
+        "name" : "Цаг бүртгэлийн зөрчлийн хяналт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage6"
+    },
+    {
+        "name" : "Гүйцэтгэлийн сарын баланс",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage7"
+    },
+    {
+        "name" : "Ажилтны шалтгааны бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage8"
+    },
+    {
+        "name" : "Илүү цагийн модуль",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage9"
+    },
+    {
+        "name" : "Цаг бүртгэлийн автомат төхөөрөмжтэй холбоотой мэдээлэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage10"
+    },
+    {
+        "name" : "Эдийн засгийн хуанли",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage11"
+    },
+    {
+        "name" : "Байгууллагын ирц модуль",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage12"
+    },
+    {
+        "name" : "Цагийн хяналтын модуль",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "timemanage13"
+    },
+
+    {
+        "name" : "Тасгийн тохиргоо",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market1"
+    },
+    {
+        "name" : "Барааны тохиргоо",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market2"
+    },
+    {
+        "name" : "Хямдрал",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market3"
+    },
+    {
+        "name" : "Урамшуулал",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market4"
+    },
+    {
+        "name" : "Талоны жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market5"
+    },
+    {
+        "name" : "Буцаалтын жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market6"
+    },
+    {
+        "name" : "Татагдаагүй гүйлгээний жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market7"
+    },
+    {
+        "name" : "Гүйлгээ",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market8"
+    },
+    {
+        "name" : "Үнийн өөрчлөлтийн түүх",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market9"
+    },
+    {
+        "name" : "Кассирийн тооцоо",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market10"
+    },
+    {
+        "name" : "Бараа орлогод авах",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market11"
+    },
+    {
+        "name" : "Электрон жин",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "market12"
+    },
+
+    {
+        "name" : "Заалны тохиргоо",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant1"
+    },
+    {
+        "name" : "Бараа материал",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant2"
+    },
+    {
+        "name" : "Талоны жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant3"
+    },
+    {
+        "name" : "Устгагдсан талоны жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant4"
+    },
+    {
+        "name" : "Борлуулалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant5"
+    },
+    {
+        "name" : "Гүйлгээ",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "restaurant6"
+    },
+
+    {
+        "name" : "Хүлээн авах",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "hotel1"
+    },
+    {
+        "name" : "Удирдлага, хяналт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "hotel2"
+    },
+
+    {
+        "name" : "Карт эзэмшигчийн бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount1"
+    },
+    {
+        "name" : "Худалдан авалтын бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount2"
+    },
+    {
+        "name" : "Картын гүйлгээний бүртгэл",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount3"
+    },
+    {
+        "name" : "Хамтран эзэмших хүсэлт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount4"
+    },
+    {
+        "name" : "Зөвшөөрөл олголт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount5"
+    },
+    {
+        "name" : "Картын жагсаалт",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount6"
+    },
+    {
+        "name" : "Зөрчлийн шалгуур",
+        "desc" : "",
+        "img" : "/bureldehuunicons/unit.png",
+        "href" : "#",
+        "id" : "discount7"
+    }
+]
