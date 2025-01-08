@@ -7,19 +7,29 @@
         "text" : [
             {
                 "type" : "heading1",
-                "content" : "Бидний Түүх"
+                "content" : "Интерактив Би Ай ХХК"
             },
             {
                 "type" : "normal",
-                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+                "content" : "Манай байгууллага анх 1996 онд Интерактив ХХК нэртэй үүсгэн байгуулагдсан бөгөөд 2008 оноос одоогийн “Интерактив Би Ай” ХХК нэрээр үйл ажиллагаагаа явуулж байна. Мэдээлэл харилцаа холбоо, технологийн салбарын томоохон төлөөлөгч ба Санхүү НББ-ийн систем, Байгууллагын нөөц удирдлагын ERP системүүдийг хөгжүүлэн олон төрлийн бизнесийн байгууллагуудад автоматжуулалтын цогц шийдэл, програм нийлүүлэх чиглэлээр ажиллаж байна. Үүнээс гадна доорх үйл ажиллагааг эрхэлдэг."
             },
             {
                 "type" : "heading2",
-                "content" : "Ажиллах арга барил"
+                "content" : "Үүнд:"
             },
             {
-                "type" : "normal",
-                "content" : "Aute mollit nulla aute amet anim labore voluptate pariatur Lorem consequat pariatur mollit dolore elit. Nisi reprehenderit pariatur eiusmod ullamco esse dolor commodo voluptate do laboris amet. Laborum ut nisi cupidatat cillum ad sit velit velit. Pariatur dolor esse eiusmod esse dolore adipisicing tempor aute adipisicing. Do culpa ut pariatur sint."
+                "type" : "num",
+                "content" : [
+                    {
+                        "bulletlist":  "Байгууллагын онцлогт тохирсон нэмэлт систем хөгжүүлэх"
+                    },
+                    {
+                        "bulletlist":  "Програм ашиглалтын зөвлөгөө, заавар өгөх"
+                    },
+                    {
+                        "bulletlist":  "Техник хангамжийн үйлчилгээ үзүүлэх"
+                    }
+                ]
             }
         ]
     },

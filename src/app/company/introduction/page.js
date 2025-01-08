@@ -1,32 +1,25 @@
-import Format1 from "@/app/layouts/format1"
-import Content from "../Content"
+import Format1 from "@/app/layouts/format1";
+import Content from "../Content";
+import data from "../company.json";
 
-import data from "../company.json"
+export default function Company() {
+    const id = 0;  // COMPANY INTRODUCTION ID: 0
 
-export default function Company(){
-    let pData = {
-        "title" : "",
-        "heroimg" : "",
-        "subtitle" : ""
-    }
-    let id = 0 //----------------------------------------------COMPANY INTRODUCTION ID: 0-------------------------//
-    data.map(function(curlylist) { //THIS FUNCTION PICKS THE RELEVANT DATA FROM THE JSON FILE AND PUTS IT INTO pData
-        if ( curlylist["id"] === id) {
-            pData = {
-                "title" : curlylist["title"],
-                "heroimg" : curlylist["heroimg"],
-                "subtitle" : curlylist["subtitle"]
-            }
-        }
-    })
+    // Find the object that matches the given ID
+    const pData = data.find(item => item.id === id) || {
+        title: "",
+        heroimg: "",
+        subtitle: ""
+    };
 
     return (
-        <Format1 Content={ Content } data={ pData } id={ id } additions={ customizeContent } />
-    )
+        <Format1 Content={Content} data={pData} id={id} additions={customizeContent} />
+    );
 }
 
-function customizeContent() { //THIS FUNCTION WILL ADD ADDITIONAL HTML TO THE PAGE; USE IF NEEDED
+// Customize additional HTML if needed
+function customizeContent() {
     return (
         <div></div>
-    )
+    );
 }

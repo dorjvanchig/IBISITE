@@ -19,7 +19,7 @@ export default function Home() {
       <section id='header' className='fixed top-0 w-full z-50'>
         <div className="bg-gradient-to-r from-[#013a63] from-[10%] via-[#014f86] to-[#61a5c2] to-[80%] h-20 w-full">
           <Header />
-        </div>
+        </div>  
       </section>
       <section id='productList'>
         <Productlist2 />

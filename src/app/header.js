@@ -117,7 +117,7 @@ export default function Header() {
             <a href="/" className="-m-1.5 p-1.5">
               <span className="sr-only">IBI</span>
               <img className="h-[52px] w-auto transition duration-[400ms] ease-in-out hover:scale-110" 
-              src={color ? "/ibicoloredlogo.png" : "/ibiwhitelogo.png"} alt="IBI LOGO" />
+              src={color ? "/ibilogo.png" : "/ibilogo.png"} alt="IBI LOGO" />
             </a>
           </div>
           <div id='Hamburger' className="flex justify-end lg:hidden absolute right-[30px]">

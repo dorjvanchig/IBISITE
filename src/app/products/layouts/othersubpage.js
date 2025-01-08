@@ -22,12 +22,19 @@ function BureldehCom(props) {
                         <div className='px-[5%] aspect-[89.16/64.8] w-auto flex items-center justify-center'><img src={ props.img } className='aspect-square w-full sm:w-4/6 min-[912px]:w-5/6 min-[1074px]:w-full' /></div>
                         <h2 className='flex items-center text-left h-full w-auto font-extrabold text-[14px] sm:text-[12px] min-[850px]:text[14px] min-[1074px]:text-[18px] text-blue-900'>{ props.name }</h2>
                     </div>
-                    <div className='bg-blue-900 h-[2px]'></div>
+                    <div className='bg-blue-900 h-[2px] mb-3'></div>
 
                     <div className='w-full h-[54%] relative'>
                         <div className='w-full h-4/6 sm:h-5/6 absolute bottom-0'>
                             <p className='flex items-center text-left dark:text-black h-full w-auto text-[12px] sm:text-[11px] min-[1074px]:text-[13px]'> { props.desc } </p>
                         </div>
+
+                        {/* bulletlist */}
+                        <ul className="list-disc pl-5 text-[12px] sm:text-[11px] min-[1074px]:text-[13px]">
+                            {props.bulletlist && props.bulletlist.map((item, index) => 
+                            <li key={index}>{item}</li>)}
+                        </ul>
+
                     </div>
                 </a>
             </button>
@@ -42,7 +49,7 @@ function NiitBureldeguun(props) {
             {props.Bureldehuun.map(function(comp) {
                 if (props.Bureldeh[comp["id"]]) {
                     return (
-                        <BureldehCom key={ comp["id"] } name={comp["name"]} img={comp["img"]} desc={comp["desc"]} href={ comp["href"] } />
+                        <BureldehCom key={ comp["id"] } name={comp["name"]} img={comp["img"]} desc={comp["desc"]} href={ comp["href"] } bulletlist={["list"]}/>
                     )
                 }
             })}

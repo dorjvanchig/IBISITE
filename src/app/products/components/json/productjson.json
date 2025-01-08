@@ -6,13 +6,7 @@
         "key" : "diamond0",
         "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
     },
-    {
-        "srcimg" : "/comingsoon.png",
-        "name" : "Даймонд 6.0",
-        "href" : "/Diamond6",
-        "key" : "diamond1",
-        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis tristique varius. Quisque molestie enim nec felis pharetra cursus fermentum mattis metus. Proin laoreet arcu arcu, eu aliquam odio lobortis vel."
-    },
+
     {
         "srcimg" : "/productIcons/dimond55_cropped.png",
         "name" : "Даймонд 5.0",

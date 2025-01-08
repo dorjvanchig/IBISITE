@@ -32,7 +32,39 @@ export default function Pricesubpage({ isDetails, id, tableinfo }) {
 const Table = ({ data }) => {
   return (
     <div className="flex mt-8 mb-16 overflow-x-auto overflow-hidden">
-      <table className="min-w-full divide-y divide-gray-200">
+      <table className="min-w-full divide-y divide-black">
+        <thead className="bg-blue-500">
+          <tr>
+            {Object.keys(data[0]).map((key) => (
+              <th
+                key={key}
+                scope="col"
+                className="px-6 py-3 text-left font-extrabold text-xs min-[680px]:text-sm md:text-base lg:text-lg text-white uppercase tracking-wider border-x border-black"
+              >
+                {key}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody className="bg-white divide-y divide-black text-black">
+          {data.map((row, index) => (
+            <tr key={index}>
+              {Object.entries(row).map(([key, value], idx) => (
+                <td
+                  key={key}
+                  className={`px-6 py-4 whitespace-nowrap text-xs md:text-sm lg:text-base border-x border-black ${
+                    !isNaN(row["№"]) ? "font-bold bg-green-500" : "font-bold bg-white"
+                  }`}
+                >
+                  {value}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      {/* <table className="min-w-full divide-y divide-gray-200">
         <thead className="bg-blue-500">
           <tr>
             {Object.keys(data[0]).map((key) => (
@@ -45,7 +77,7 @@ const Table = ({ data }) => {
               </th>
             ))}
           </tr>
-        </thead>
+        </thead>1	НЯГТЛАН БОДОХ БҮРТГЭЛИЙН СИСТЕМ	5,060,000
         <tbody className="bg-white divide-y divide-gray-200 text-black">
           {data.map((row, index) => (
             <tr key={index}>
@@ -62,7 +94,7 @@ const Table = ({ data }) => {
             </tr>
           ))}
         </tbody>
-      </table>
+      </table> */}
     </div>
   );
 };

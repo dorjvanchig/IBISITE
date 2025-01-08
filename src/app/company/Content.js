@@ -67,8 +67,18 @@ export default function Content( props ) {
                     )
                 case 'bullet' :
                     return (
-                        <ul className=' list-disc text-md md:text-lg my-[10px]'>
-                            { content.map(function( curlylist2 ) {
+                        <ul className=' list-disc dark:text-black text-md md:text-lg my-[10px] w-full ml-[3%] lg:w-2/3'>
+                            { content.map(function( curlylist2) {
+                                return (
+                                    <li> {curlylist2["bulletlist"]} </li>
+                                )
+                            })}
+                        </ul>
+                    )
+                case 'num' :
+                    return (
+                        <ul className=' list-decimal dark:text-black text-md md:text-lg my-[10px] w-full ml-[3%] lg:w-2/3'>
+                            { content.map(function( curlylist2) {
                                 return (
                                     <li> {curlylist2["bulletlist"]} </li>
                                 )
