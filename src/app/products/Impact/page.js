@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import Layout from '../layouts/layout'
+import Layout from '../layouts/impact/impactlayout'
 import unfilteredDetails from '../main.json'
 import Text from '../layouts/text'
 

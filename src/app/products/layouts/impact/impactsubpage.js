@@ -1,5 +1,6 @@
 import React from 'react'
-import Bureldehuun from '../components/json/Bureldehuun'
+import Bureldehuun from '../../components/json/impact'
+
 
 export default function Othersubpage({ isDetails, data }) {
     if (isDetails === 1) {

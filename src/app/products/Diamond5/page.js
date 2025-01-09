@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import Layout from '../layouts/layout'
+import Layout from '../layouts/diamondMod/diamondlayout'
 import Text from '../layouts/text'
 
 import unfilteredDetails from '../main.json'

@@ -1,15 +1,13 @@
-
-
 import { useState } from 'react'
 import Header from '@/app/header'
 import { ChevronLeftIcon } from '@heroicons/react/20/solid'
-import Viewcontainer1 from './viewcontainer'
-import Othersubpage from './impact/impactsubpage'
+import Viewcontainer1 from '../viewcontainer'
+import DiamondModule from './diamondsubpage'
 import Footer from '@/app/footer'
-import Detailssubpage from './detailssubpage'
+import Detailssubpage from '../detailssubpage'
 import MainFormat from '@/app/layouts/mainFormat'
 import SideNav from '@/app/sidenav'
-import Pricesubpage from './pricesubpage'
+import Pricesubpage from '../pricesubpage'
 
 // import { Text } from '../Diamond6/page'
 
@@ -93,7 +91,7 @@ export default function Layout( props ) {
           </div>
         </div>
         <props.Text isDetails={ isDetails } id={ props.id }>{ props.children }</props.Text>
-        <Othersubpage isDetails={ isDetails } data={ props.data }/>
+        <DiamondModule isDetails={ isDetails } data={ props.data }/>
         <Pricesubpage isDetails={ isDetails } tableinfo={ props.data["tableinfo"] } id={ props.id } />
       </div>
       <section id='Footer'>
