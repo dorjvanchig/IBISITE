@@ -21,7 +21,6 @@ function Component2() {
             </ul>
           </div>
         </div>
-      
     </div>
   );
   

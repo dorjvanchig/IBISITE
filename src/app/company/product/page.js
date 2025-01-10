@@ -7,7 +7,8 @@ export default function Product(){
     let pData = {
         "title" : "",
         "heroimg" : "",
-        "subtitle" : ""
+        "subtitle" : "",
+        "image" : ""
     }
     let id = 1 //----------------------------------------------COMPANY PRODUCT ID: 1-------------------------//
     data.map(function(curlylist) {
@@ -15,7 +16,8 @@ export default function Product(){
             pData = {
                 "title" : curlylist["title"],
                 "heroimg" : curlylist["heroimg"],
-                "subtitle" : curlylist["subtitle"]
+                "subtitle" : curlylist["subtitle"],
+                "image" : curlylist["image"]
             }
         }
     })

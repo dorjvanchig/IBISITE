@@ -1,5 +1,3 @@
-
-
 import { useState } from 'react'
 import Header from '@/app/header'
 import { ChevronLeftIcon } from '@heroicons/react/20/solid'

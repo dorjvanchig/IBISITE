@@ -3,6 +3,7 @@ import Bureldehuun from '../../components/json/diamondModule'
 
 export default function Othersubpage({ isDetails, data }) {
     if (isDetails === 1) {
+        console.log(Bureldehuun);
         return (
             <div className='w-full h-auto flex justify-center'>
                 <NiitBureldeguun Bureldehuun={ Bureldehuun } Bureldeh={ data }/>
@@ -24,7 +25,7 @@ function BureldehCom(props) {
                     </div>
                     <div className='bg-blue-900 h-[2px] mb-3'></div>
                     {/* paragraph */}
-                    <div className='w-full h-[80px] relative'>
+                    <div className='w-full h-[100px] relative'>
                         <div className='w-full h-4/6 sm:h-5/6 absolute mt-3'>
                             <p className='flex items-center text-left dark:text-black h-full w-auto text-[12px] sm:text-[11px] min-[1074px]:text-[13px]'> { props.desc } </p>
                         </div>
@@ -59,6 +60,15 @@ function NiitBureldeguun(props) {
                     )
                 }
             })}
+            {/* <div className="flex items-center justify-center w-[400px] h-[200px] bg-gray-100 mx-auto my-4">
+                <p className="font-bold text-center dark:text-black text-[16px]" >
+                        Системд урьдчилан тодорхойлсон маш олон тайлангийн загварууд байх бөгөөд эдгээр загварын дагуу та шаардлагатай
+                        тайлан мэдээгээ авч болох ба байгууллагынхаа онцлогоос хамаарсан нэмэлт тайлангуудыг хүссэн хэлбэрээрээ үүсгэх
+                        боломжтой.
+                </p>
+            </div> */}
+
         </div>
+        
     )
 }

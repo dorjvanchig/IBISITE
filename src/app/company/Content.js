@@ -99,6 +99,12 @@ export default function Content( props ) {
                             </p>
                         </div>
                     )
+                case "image":
+                    return (
+                        <div className="mt-[20px] flex justify-center bg-blue-500">
+                            
+                        </div>
+                        );
                 default:
                     break;
                 }

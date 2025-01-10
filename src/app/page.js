@@ -7,6 +7,7 @@ import SideNav from './sidenav'
 import Header from './header'
 import Component2 from './components/component2'
 import PurposeWord from './components/purposeWord'
+import Marqee from './marqeeLogo'
 
 
 export default function Home() {
@@ -79,7 +80,10 @@ export default function Home() {
       <div className=''>
           <Component2 />
       </div>
-      <section id='footerSection' className='mt-[7%]'>
+      <section id='marqeeSection'> 
+        <Marqee />
+      </section>
+      <section id='footerSection'>
         <Footer />
       </section>
     </main>

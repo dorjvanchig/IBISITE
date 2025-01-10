@@ -23,6 +23,12 @@ function Format1( props ) {
         </section>
         <section id='content'>
           <props.Content id={ props.id }><props.additions /></props.Content>
+          {/* <div
+            className="absolute top-0 bg-cover bg-center bg-fixed brightness-[40%] z-0 w-full h-[500px] md:h-[500px]"
+            style={{
+              backgroundImage: `url(${props.data["image"]})`,
+            }}
+          ></div> */}
         </section>
     </MainFormat>
   )
