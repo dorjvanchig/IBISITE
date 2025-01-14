@@ -5,6 +5,7 @@ import { Bars3Icon, BellIcon, XMarkIcon, ChevronLeftIcon, ChevronRightIcon } fro
 import { ButtonGroup, Button } from "@material-tailwind/react"
 import Gridcolumn from './gridcolumn'
 import Statistics from './Statistics'
+import Marquee from '@/app/marqeeLogo'
 
 
 export default function MainPage(){

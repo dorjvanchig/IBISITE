@@ -102,9 +102,14 @@ export default function Content( props ) {
                 case "image":
                     return (
                         <div className="mt-[20px] flex justify-center bg-blue-500">
-                            
+                            <img 
+                                src="/companyheroimg/time.png"  
+                                alt="Бүтээгдэхүүний хөгжлийн зураг"  
+                                className="max-w-full h-auto"
+                            />
                         </div>
-                        );
+                    );
+                    
                 default:
                     break;
                 }

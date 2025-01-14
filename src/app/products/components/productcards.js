@@ -24,7 +24,7 @@ export default function Productcards() {
 
 function ProductButton(props) {
     return (
-        <div className='w-full sm:w-1/2 lg:w-[300px] flex items-center justify-center flex-col'>
+        <div className='w-full sm:w-1/2 lg:w-[300px] flex items-center justify-center flex-col mb-[5%]'>
             <div className='h-[36px] w-full'></div>
                 <button className='bg-gray-50 hover:bg-slate-100  hover:-translate-y-4 ease-in-out aspect-[0.65] w-[90%] flex-col rounded-xl ring-1 ring-gray-300 transition duration-500 hover:shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)] shadow-black hover:scale-110'>
                     <a href={ props.href }>

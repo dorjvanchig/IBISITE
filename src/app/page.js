@@ -46,14 +46,14 @@ export default function Home() {
                   Бид бизнесийн бүхий л салбарт програм хангамжийн автоматжуулалтын цогц шийдлийг санал болгож байна.
                 </p> */}
               </div>
-              <div className="w-full flex justify-center items-center absolute bottom-[10px] left-0">
+              {/* <div className="w-full flex justify-center items-center absolute bottom-[10px] left-0">
                   <button className=" text-white transition durantion-200 hover:text-gray-500 hover:-translate-y-[3px] font-bold rounded-2xl py-4 px-8 ">
                     <a href="/company/introduction" className='text-[13px] sm:text-[15px] lg:text-[18px]'>[Танилцуулга]</a>
                   </button>
                   <button className="ml-2 text-white transition durantion-200 hover:text-gray-500 hover:-translate-y-[3px] font-bold rounded-2xl py-4 px-8 ">
                     <a href="/products" className='text-[13px] sm:text-[15px] lg:text-[18px]'>[Бүтээгдэхүүн]</a>
                   </button>
-              </div>
+              </div> */}
             </div>
           </div>
         </section>

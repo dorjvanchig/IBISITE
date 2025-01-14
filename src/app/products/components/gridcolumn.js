@@ -18,7 +18,7 @@ function Gridcolumn() {
 
 function Card3(props) {
     return (
-        <div className="w-1/2 lg:w-1/3 h-[200px] flex justify-center items-center">
+        <div className="w-1/2 lg:w-1/3 h-[200px] flex justify-center items-center mb-4">
             <div className="w-[90%] h-[85%] relative">
                 <div className=' bg-[#e8f6ff] dark:text-black h-full w-full absolute top-0 opacity-0 hover:opacity-100 transition duration-[400ms] ease-in-out rounded-xl'>
                     <div className="w-full h-1/5 flex justify-center items-center"><h3 className="font-semibold text-[70%] text-center"> { props.title } </h3></div>

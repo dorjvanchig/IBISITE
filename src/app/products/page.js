@@ -5,6 +5,7 @@ import MainPage from './components/MainProductPage'
 import Footer from '../footer'
 import Productlist2 from './components/productlist2'
 import SideNav from '../sidenav'
+import Marquee from '../marqeeLogo'
 
 //this is temporary - integrate this into MainPage after this is finished
 import ProductCards from './components/productcards'
@@ -30,7 +31,10 @@ export default function Home() {
       <sectiod id='productCards'>
         <ProductCards />
       </sectiod>
-      <section id='footerSection' className='mt-[5%]'>
+      <section>
+        <Marquee />
+      </section>
+      <section id='footerSection'>
         <Footer />
       </section>
     </main>

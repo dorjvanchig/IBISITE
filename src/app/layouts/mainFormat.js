@@ -5,6 +5,7 @@ import Header from '../header'
 import Footer from '../footer'
 import RootLayout from '../layout'
 import SideNav from '../sidenav'
+import Marqee from '../marqeeLogo'
 
 function MainFormat({ children }) {
   return (
@@ -18,6 +19,9 @@ function MainFormat({ children }) {
         </section>
         <section id="Body" className="mr-[0%] ml-[0%]">
           {children}
+        </section>
+        <section>
+          <Marqee />
         </section>
         <section id="Footer">
           <Footer />

@@ -190,9 +190,9 @@ export default function Header() {
                 </Transition>
               </Popover>
             ))}
-            <a href="/company/partners" className="text-md font-semibold leading-6 transition duration-300 hover:text-gray-500 hover:cursor-default">
+            {/* <a href="/company/partners" className="text-md font-semibold leading-6 transition duration-300 hover:text-gray-500 hover:cursor-default">
                 Хамтрагч
-            </a>
+            </a> */}
             </Popover.Group>
           </div>
         </nav>
@@ -265,12 +265,12 @@ export default function Header() {
                     </Disclosure>
                   </div>
                 ))}
-                <a
+                {/* <a
                   href="/company/partners"
                   className="flex w-full items-center justify-between rounded-lg py-6 pl-3 pr-3.5 text-md font-extrabold leading-7 text-gray-900 hover:bg-gray-50"
                 >
                   Хамтрагч
-                </a>
+                </a> */}
                 </div>
               </div>
             </Dialog.Panel>

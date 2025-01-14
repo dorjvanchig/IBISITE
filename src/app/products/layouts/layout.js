@@ -4,12 +4,14 @@ import { useState } from 'react'
 import Header from '@/app/header'
 import { ChevronLeftIcon } from '@heroicons/react/20/solid'
 import Viewcontainer1 from './viewcontainer'
-import Othersubpage from './impact/impactsubpage'
+import Othersubpage from './othersubpage'
 import Footer from '@/app/footer'
 import Detailssubpage from './detailssubpage'
 import MainFormat from '@/app/layouts/mainFormat'
 import SideNav from '@/app/sidenav'
 import Pricesubpage from './pricesubpage'
+import Requirment from './diamondMod/Requirment'
+import Marquee from '@/app/marqeeLogo'
 
 // import { Text } from '../Diamond6/page'
 
@@ -24,6 +26,9 @@ export default function Layout( props ) {
   }
   const HandlePriceButtonClick = () => {
     SetIsDetails(2)
+  }
+    const HandleReqButtonClick = () => {
+    SetIsDetails(3)
   }
 
   //-------------------------Give parameter to Text function-------------//
@@ -54,6 +59,16 @@ export default function Layout( props ) {
         <h2 className='absolute left-0 text-[13px] sm:text-[16px] font-semibold w-auto flex-col dark:text-black'>
           Үнийн санал
           <LineButton detailsbuttonclicked={ isDetails } detailsbutton={ 2 }/>
+        </h2>
+      </button>
+    )
+  }
+  function Reqbutton() {
+    return (
+      <button className='relative w-3/4 h-2/3 flex items-center' onClick={ HandleReqButtonClick }>
+        <h2 className='absolute left-0 text-[13px] sm:text-[16px] font-semibold w-auto flex-col dark:text-black'>
+          Техникийн шаардлага
+          <LineButton detailsbuttonclicked={ isDetails } detailsbutton={ 3 }/>
         </h2>
       </button>
     )
@@ -90,12 +105,19 @@ export default function Layout( props ) {
             <div className='relative w-1/2 h-1/2'>
               <Pricebutton />
             </div>
+            <div className='relative w-1/2 h-1/2'>
+              <Reqbutton />
+            </div>
           </div>
         </div>
         <props.Text isDetails={ isDetails } id={ props.id }>{ props.children }</props.Text>
         <Othersubpage isDetails={ isDetails } data={ props.data }/>
         <Pricesubpage isDetails={ isDetails } tableinfo={ props.data["tableinfo"] } id={ props.id } />
+        <Requirment isDetails={ isDetails } /> 
       </div>
+      <section>
+        <Marquee />
+      </section>
       <section id='Footer'>
         <Footer />
       </section>
