@@ -4,11 +4,11 @@ import { ArrowDownTrayIcon, BellAlertIcon, ChartBarIcon, CloudIcon, RssIcon, Che
 
 
 const SIDE = [
-  { name: 'Navigation Item', href: '#', icon: ArrowDownTrayIcon, color: 'bg-[#014F86]', ringColor: 'ring-[#014F86]' },
+  // { name: 'Navigation Item', href: '#', icon: ArrowDownTrayIcon, color: 'bg-[#014F86]', ringColor: 'ring-[#014F86]' },
   { name: 'TeamViewer татах', href: '/installs/TeamViewerQS.exe', icon: 'teamviewer', color: 'bg-[#0e8ee9]', ringColor: 'ring-[#0e8ee9]' },
   { name: 'AnyDesk татах', href: '/installs/AnyDesk.exe', icon: 'anydesk', color: 'bg-[#ef443b]', ringColor: 'ring-[#ef443b]' },
-  { name: 'QuickJoin татах', href: '#', icon: CloudIcon, color: 'bg-[#468FAF]', ringColor: 'ring-[#468FAF]' },
-  { name: 'Navigation Item', href: '#', icon: RssIcon, color: 'bg-[#61A5C2]', ringColor: 'ring-[#61A5C2]' },
+  // { name: 'QuickJoin татах', href: '#', icon: CloudIcon, color: 'bg-[#468FAF]', ringColor: 'ring-[#468FAF]' },
+  // { name: 'Navigation Item', href: '#', icon: RssIcon, color: 'bg-[#61A5C2]', ringColor: 'ring-[#61A5C2]' },
 ]
 
 
