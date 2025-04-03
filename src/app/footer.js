@@ -173,7 +173,7 @@ export default function Footer() {
                 />
               </svg>
             </Typography>
-            <Typography as="a" href="#" className="opacity-80 transition-opacity duration-200 hover:opacity-100 hover:scale-95">
+            {/* <Typography as="a" href="#" className="opacity-80 transition-opacity duration-200 hover:opacity-100 hover:scale-95">
               <svg className="h-5 w-5 text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fillRule="evenodd"
@@ -195,7 +195,7 @@ export default function Footer() {
                   clipRule="evenodd"
                 />
               </svg>
-            </Typography>       
+            </Typography>        */}
           </div>
         </div>
       </div>
